@@ -25,9 +25,7 @@
 	EntityManager em = emf.createEntityManager();
 - ```
 
-
 - 对事务的操作代码示例如下：
-
 
  ``` 
 		manager.getTransaction().begin();
